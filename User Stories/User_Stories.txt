@@ -1,0 +1,14 @@
+Nome: Ana Clara Ferreira de Godoy e Levi Alberto Motta Santos / ADS  / 3º Semestre
+
+USER STORIES
+
+1- Como jornalista, quero visualizar a quantidade de professores de todas as áreas admitidos no Brasil, para que eu obtenha conteúdo para minha matéria.
+2- Como jornalista, quero visualizar a quantidade de professores de todas as áreas do Brasil que foram desligados, para que eu obtenha conteúdo para minha matéria.
+3- Como jornalista, quero visualizar o salário mensal de professores de todas as áreas no Brasil, para que eu obtenha conteúdo para minha matéria.
+4- Como jornalista, quero visualizar a quantidade de professores de todas as áreas com deficiência no Brasil, para que eu obtenha conteúdo para minha matéria.
+5- Como jornalista, quero visualizar a raça dos professores de todas as áreas que foram demitidos no Brasil, para que eu obtenha conteúdo para minha matéria.
+6- Como jornalista, quero comparar o gênero dos professores de todas as áreas do Brasil, para que eu obtenha conteúdo para minha matéria.
+7- Como jornalista, quero comparar as idades dos professores de todas as áreas do Brasil, para que eu obtenha conteúdo para minha matéria.
+8- Como jornalista, quero obter um grafico que mostre os estados que mais admimitiram e demitiram professores de todas as áreas do Brasil, para que eu obtenha conteúdo para minha matéria.
+9- Como jornalista, quero obter um gráfico que mostre a evolução do número de admissões de professores de todas as áreas no Brasil, para que eu obtenha conteúdo para minha matéria.
+10- Como jornalista, quero obter um gráfico que mostre a evolução do número de demissões de professores de todas as áreas no Brasil, para que eu obtenha conteúdo para minha matéria.
